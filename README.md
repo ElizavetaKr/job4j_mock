@@ -204,3 +204,4 @@ Smoke-тесты:
 - Notification сервис - http://localhost:9920/swagger-ui/index.html
 
 ___
+Изменения по заданию Git flow [#505059]
